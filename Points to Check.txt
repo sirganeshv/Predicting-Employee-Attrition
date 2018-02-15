@@ -1,0 +1,8 @@
+1.Lambda
+2.Zip(mask,features)
+3.fit(),transform()
+4.Internal working of selectkbest
+5.Internal working of RFE
+6.selectFPR
+7.fclassif- getting divide by 0 error(msbn,mswn)
+8.r2_score
